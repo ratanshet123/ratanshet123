@@ -1,8 +1,8 @@
 - 👋 Hello everyone, I’m Ratan Shet.
-- 👀 I’m interested in CyberSecurity,Ethical Hacking and also Frontend Development.
+- 👀 I’m interested in CyberSecurity, Ethical Hacking, Full Stack Web Development.
 -    I'm currently pursuing my B.E degree in Computer Science.
-- 🌱 I’m currently learning various concepts of CyberSecurity.
--    I have already learnt Python, Java, HTML, CSS and JavaScript.
+- 🌱 I’m learning various concepts of CyberSecurity.
+-    I have also been constantly learning Python, Java, HTML, CSS and JavaScript.
 -    I would like to do more and more projects and gain experience.
 
 <!---
