@@ -3,7 +3,6 @@
 -    I'm currently pursuing my B.E degree in Computer Science.
 - 🌱 I’m learning various concepts of CyberSecurity.
 -    I have also been constantly learning Python, Java, HTML, CSS and JavaScript.
--    I would like to do more and more projects and gain experience.
 
 <!---
 ratanshet123/ratanshet123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
